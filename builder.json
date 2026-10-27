@@ -1,0 +1,16 @@
+{
+  "project": "TigerLillies",
+  "platform": "ios",
+  "github": {
+    "owner": "DevShubham-Rao",
+    "repo": "TigerLilliesApp"
+  },
+  "provider": "github",
+  "codemagic": {},
+  "bitrise": {},
+  "ios": {},
+  "flutter": {"watch": {}},
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
+}
