@@ -1,15 +1,19 @@
 {
-  "project": "TigerLillies",
+  "project": "Tigerlillies",
   "platform": "ios",
   "github": {
     "owner": "DevShubham-Rao",
-    "repo": "TigerLilliesApp"
+    "repo": "Tigerlillies"
   },
   "provider": "github",
   "codemagic": {},
   "bitrise": {},
-  "ios": {},
-  "flutter": {"watch": {}},
+  "ios": {
+    "path": "C:\\Users\\Administrator\\Documents\\GitHub\\Tigerlillies"
+  },
+  "flutter": {
+    "watch": {}
+  },
   "reactNative": {},
   "kmp": {},
   "mobai": {}
